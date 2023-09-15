@@ -1,0 +1,11 @@
+D:\Myfiles\7\Software Engineering\Individual\BuilderDesignPattern\Pizza\bin\Debug\net6.0\PizzaApp.deps.json
+D:\Myfiles\7\Software Engineering\Individual\BuilderDesignPattern\Pizza\bin\Debug\net6.0\PizzaApp.dll
+D:\Myfiles\7\Software Engineering\Individual\BuilderDesignPattern\Pizza\bin\Debug\net6.0\PizzaApp.pdb
+D:\Myfiles\7\Software Engineering\Individual\BuilderDesignPattern\Pizza\obj\Debug\net6.0\PizzaApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Myfiles\7\Software Engineering\Individual\BuilderDesignPattern\Pizza\obj\Debug\net6.0\PizzaApp.AssemblyInfoInputs.cache
+D:\Myfiles\7\Software Engineering\Individual\BuilderDesignPattern\Pizza\obj\Debug\net6.0\PizzaApp.AssemblyInfo.cs
+D:\Myfiles\7\Software Engineering\Individual\BuilderDesignPattern\Pizza\obj\Debug\net6.0\PizzaApp.csproj.CoreCompileInputs.cache
+D:\Myfiles\7\Software Engineering\Individual\BuilderDesignPattern\Pizza\obj\Debug\net6.0\PizzaApp.dll
+D:\Myfiles\7\Software Engineering\Individual\BuilderDesignPattern\Pizza\obj\Debug\net6.0\refint\PizzaApp.dll
+D:\Myfiles\7\Software Engineering\Individual\BuilderDesignPattern\Pizza\obj\Debug\net6.0\PizzaApp.pdb
+D:\Myfiles\7\Software Engineering\Individual\BuilderDesignPattern\Pizza\obj\Debug\net6.0\ref\PizzaApp.dll
